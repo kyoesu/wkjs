@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    display:flex;
+    min-height: 100vh;
+}
+#canvas_plt{
+    margin: auto;
+    background: #c2c2f6;
+}
